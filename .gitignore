@@ -1,0 +1,25 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Dataset and model files (if you don't want to commit large files like datasets or models)
+*.h5
+*.pt
+*.ckpt
+*.json
+*.jsonl
+
+# System files (specific to Windows, macOS, etc.)
+.DS_Store
+Thumbs.db
