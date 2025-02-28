@@ -1,4 +1,4 @@
-# **Fine-Tuning LLaMA-2 for a Tourist Guide Assistant**  
+# **Fine-Tuning LLaMA-2 and GPT 3.5 Turbo for a Tourist Assistant**  
 
 ## 📌 **Overview**  
 This project fine-tunes **LLaMA-2** to act as a **Tourist Guide Assistant for Sri Lanka**, providing:  
