@@ -43,7 +43,7 @@ While **LLaMA-2** is used due to its open-source nature, **GPT-3.5 Turbo** would
 ## 📎 **Project Files**  
 - `train_data.jsonl` – Training data for fine-tuning.  
 - `test_data.jsonl` – Test data for evaluating the model.  
-- **[Colab Notebook](https://colab.research.google.com/drive/1an4lr0yKnlU-7Ds055hoaj9dfThbzw9R?usp=sharing)** – Contains the complete fine-tuning and inference process.  
+- **[Colab Notebook](https://colab.research.google.com/drive/1EZGRrF65Y9uNZ39lYPKmeEYOkFwQQgW3?usp=sharing)** – Contains the complete fine-tuning and inference process.  
 - **[Fine-Tuned Model](https://drive.google.com/drive/folders/1R3e3gNRu-8Y400q7uGw5HsTJp5X639HK?usp=sharing)** – Download the fine-tuned model.  
 
 ---
